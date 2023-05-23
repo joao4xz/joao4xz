@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Henrique</h1>
 <h3 align="center">A passionate computer science student from Brazil</h3>
 
-- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
+- 🔭 I’m currently studying [The Odin Project](https://www.theodinproject.com/)
 
 - 🌱 I’m currently learning **JavaScript**
 
