@@ -20,10 +20,10 @@
 <hr>
 
 <div align="center">
-  <h2> <strong> Actively Learning </strong></h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,linux,bash,c" alt="skills actively learning logos"> <br> 
+  <h2> <strong> Technologies </strong></h2>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,git,linux,c" alt="skills actively learning logos"> <br> 
   <h2> <strong> Plan to Learn </strong></h2>
-  <img src="https://skillicons.dev/icons?i=ts,react,tailwind,bootstrap,sass" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=ts,react,bootstrap,sass" alt="skills planning to learn logos">
 </div>
 
 <hr>
