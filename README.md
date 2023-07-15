@@ -21,9 +21,7 @@
 
 <div align="center">
   <h2> <strong> Technologies </strong></h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,git,linux,c" alt="skills actively learning logos"> <br> 
-  <h2> <strong> Plan to Learn </strong></h2>
-  <img src="https://skillicons.dev/icons?i=ts,react,bootstrap,sass" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,sass,nodejs,git,linux,c" alt="skills actively learning logos">
 </div>
 
 <hr>
