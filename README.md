@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently studying [The Odin Project](https://www.theodinproject.com/)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Ruby**
 
 - 👨‍💻 All of my projects are available at [https://github.com/joao4xz?tab=repositories](https://github.com/joao4xz?tab=repositories)
 
-- 💬 Ask me about **C and JavaScript**
+- 💬 Ask me about **JavaScript and Ruby**
 
 - 📫 How to reach me **joao.4xz@gmail.com**
 
