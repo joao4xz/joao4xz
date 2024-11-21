@@ -21,7 +21,7 @@
 
 <div align="center">
   <h2> <strong> Technologies </strong></h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,nodejs,git,linux,docker,c" alt="skills actively learning logos">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,nodejs,ruby,git,linux,docker,c,figma" alt="skills actively learning logos">
 </div>
 
 <hr>
